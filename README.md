@@ -1,7 +1,6 @@
 # README
 
-==> This is a basic Restful services demo or also called as CRUD
-operations in Ruby on Rails.Hope this helps!!!
+==> This is an advanced Restful services demo or also called as CRUD operations in Ruby on Rails, which is powered by rails_admin gem to create a admin panel and to make our form validations and user authentication we have used devise gem. This project is presented without any styling.So, beginners could easily understand what's going on under the hood .Hope this helps!!!
 
 ==> How to use:
 1. Clone the folder by typing the code below or download the folder.
