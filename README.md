@@ -12,3 +12,4 @@
 4. start the rails server...
   $ rails s
 5. go to localhost:3000 in your browser  
+6. localhost:3000/admin to visit admin panel.
